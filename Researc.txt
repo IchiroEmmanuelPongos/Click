@@ -1,0 +1,74 @@
+
+
+
+
+
+VDiscretionary and Mandatory Access control
+
+Network Architecture
+
+Selection and placement
+- Infrastructure, High level design
+
+Application -HTTPS
+Presentation -ASCI (Decode/Encode)
+Session - Exchange of Data
+Transport - TCP
+Network - IP
+Data link - LAN
+Physical - 01
+
+- Application services
+- Data
+
+Workflow
+- Access
+- Email mailbox server
+- Mail transfer server
+
+Security Zones
+- Public Zones, Host exposed on the internet
+- Private Zones, Hosts only accessible to users with authorization
+
+Attack Surface
+- Points where threat actor can gain access
+
+Port Security
+
+MAC Filthering - Whitelist Device Address
+
+Physical Isolation
+- Disconecting the services from a network
+Air Gap - Completely isolated to a network
+
+Considerations
+Cost
+Responsivence
+Scalability
+Availablility
+Resileince
+Power
+Patch availability
+Risk Transference
+
+Device Placement
+Device Attributes
+Fail Open - Avaiability
+Fail Close - Block Trafic
+
+---
+
+Intrustion Detection System
+
+Real time analyis of Indicators/ Logging
+
+Intrusion Prevention System 
+Block reset Redirect 
+
+
+
+
+
+
+
+
