@@ -63,7 +63,10 @@ Intrustion Detection System
 Real time analyis of Indicators/ Logging
 
 Intrusion Prevention System 
-Block reset Redirect 
+Block reset Redirect
+
+
+New Information Here
 
 
 
